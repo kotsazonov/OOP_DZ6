@@ -1,0 +1,3 @@
+interface PersonalData {
+    String getINN();
+}
